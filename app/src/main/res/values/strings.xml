@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="button">Button</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="non_member">Non-Member</string>
+    <string name="member">Member</string>
+    <string name="todo">TODO</string>
+    <string name="head1">Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+</resources>
